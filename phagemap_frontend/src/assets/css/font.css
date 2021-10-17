@@ -1,0 +1,43 @@
+
+
+@font-face {
+    font-family: 'goodFont'; 
+    src: url('../font/Comic Sans MS.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura';
+    src: url('../font/FuturaBT-Bold.OTF') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura';
+    src: url('../font/FuturaBT-Book.OTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura';
+    src: url('../font/FuturaBT-Heavy.OTF') format('truetype');
+    font-weight: 10;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura';
+    src: url('../font/FuturaBT-Light.OTF') format('truetype');
+    font-weight: 1;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Futura';
+    src: url('../font/FuturaBT-Medium.OTF') format('truetype');
+    font-weight: 5;
+    font-style: normal;
+}
