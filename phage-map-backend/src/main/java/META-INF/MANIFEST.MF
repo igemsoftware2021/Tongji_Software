@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: cn.edu.tongji.software_igem2021.igemwebbackend.IgemWebBacken
+ dApplication
+

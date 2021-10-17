@@ -1,0 +1,6 @@
+cn/edu/tongji/software_igem2021/igemwebbackend/Entity/SuperBugEntity.class
+cn/edu/tongji/software_igem2021/igemwebbackend/Entity/ScoreWithNameEntity.class
+cn/edu/tongji/software_igem2021/igemwebbackend/Entity/PhageBugEntity.class
+cn/edu/tongji/software_igem2021/igemwebbackend/Entity/ScoreBugEntityPK.class
+cn/edu/tongji/software_igem2021/igemwebbackend/Entity/ScoreWithNameEntityPK.class
+cn/edu/tongji/software_igem2021/igemwebbackend/Entity/ScoreBugEntity.class

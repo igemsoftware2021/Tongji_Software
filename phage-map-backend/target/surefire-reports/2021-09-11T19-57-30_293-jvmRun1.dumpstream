@@ -1,0 +1,81 @@
+# Created at 2021-09-11T19:57:32.253
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+
+# Created at 2021-09-11T19:57:32.373
+Unexpected IOException with stream: 2021-09-11 19:57:32.373  INFO 14519 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+
+
+# Created at 2021-09-11T19:57:32.429
+Unexpected IOException with stream: 2021-09-11 19:57:32.429  INFO 14519 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 48 ms. Found 4 JPA repository interfaces.
+
+
+# Created at 2021-09-11T19:57:32.948
+Unexpected IOException with stream: 2021-09-11 19:57:32.947  INFO 14519 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+
+
+# Created at 2021-09-11T19:57:33.009
+Unexpected IOException with stream: 2021-09-11 19:57:33.009  INFO 14519 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+
+
+# Created at 2021-09-11T19:57:33.177
+Unexpected IOException with stream: 2021-09-11 19:57:33.177  INFO 14519 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+
+
+# Created at 2021-09-11T19:57:33.316
+Unexpected IOException with stream: 2021-09-11 19:57:33.316  INFO 14519 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+
+
+# Created at 2021-09-11T19:57:33.987
+Unexpected IOException with stream: 2021-09-11 19:57:33.987  INFO 14519 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+
+
+# Created at 2021-09-11T19:57:34.003
+Unexpected IOException with stream: 2021-09-11 19:57:34.003  INFO 14519 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+
+
+# Created at 2021-09-11T19:57:34.889
+Unexpected IOException with stream: 2021-09-11 19:57:34.889  INFO 14519 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+
+
+# Created at 2021-09-11T19:57:34.900
+Unexpected IOException with stream: 2021-09-11 19:57:34.899  INFO 14519 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2021-09-11T19:57:35.562
+Unexpected IOException with stream: 2021-09-11 19:57:35.562  WARN 14519 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+
+
+# Created at 2021-09-11T19:57:36.074
+Unexpected IOException with stream: 2021-09-11 19:57:36.074  INFO 14519 --- [           main] c.e.t.s.i.IgemWebBackendApplicationTests : Started IgemWebBackendApplicationTests in 4.615 seconds (JVM running for 5.556)
+
+
+# Created at 2021-09-11T19:57:36.078
+Unexpected IOException with stream: 2021-09-11 19:57:36.077  INFO 14519 --- [ionShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2021-09-11T19:57:36.082
+Unexpected IOException with stream: 2021-09-11 19:57:36.081  INFO 14519 --- [ionShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+
+
+# Created at 2021-09-11T19:57:36.099
+Unexpected IOException: 5,1,cn.edu.tongji.software_igem2021.igemwebbackend.IgemWebBackendApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2021-09-11T19:57:36.197
+Unexpected IOException: 6,1,cn.edu.tongji.software_igem2021.igemwebbackend.IgemWebBackendApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2021-09-11T19:57:36.198
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cn.edu.tongji.software_igem2021.igemwebbackend.IgemWebBackendApplicationTests,null,null,null
+
+
+# Created at 2021-09-11T19:57:37.306
+Unexpected IOException with stream: 2021-09-11 19:57:37.305  INFO 14519 --- [ionShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+
+
