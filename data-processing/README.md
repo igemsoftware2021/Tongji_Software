@@ -55,8 +55,15 @@ Other Configure:
    ```
 
    If you got a **deamon error**, please close other process on your PC and retry the above command.
-
-   `DockerFile` on GitHub:
+   
+   Use `DockerFile` on GitHub:
+   **Please make sure you have clone whole repositories locally!!!**
+   If you haven't clone this repositories, please run following code:
+   ```shell
+   git clone 
+   cd data-processing
+   ```
+   Then, you could run following code to build your own `Phage-MAP` image: 
 
    ```shell
    docker build -f DockerFile -t tp29/phage-map:latest .
