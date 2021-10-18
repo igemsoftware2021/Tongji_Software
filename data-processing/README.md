@@ -55,7 +55,7 @@ Other Configure:
    If you haven't clone this repositories, please run following code:
    ```shell
    git clone https://github.com/tj-Acmen/Tongji_Software.git
-   cd data-processing
+   cd Tongji_Software/data-processing
    ```
    Then, you could run following code to build your own `Phage-MAP` image: 
 
