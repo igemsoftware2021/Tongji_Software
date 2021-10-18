@@ -1,0 +1,7 @@
+FROM tp29/phage-map:latest
+MAINTAINER tj_software2021@163.com
+
+VOLUME ["map"]
+
+CMD echo "Welcome to use Phage-MAP pipeline!"
+CMD /bin/bash
