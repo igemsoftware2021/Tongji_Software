@@ -17,7 +17,7 @@ You can use this `Docker` image to construct your own data processing pipeline.
 
 ### <a name="intro" style="color:black">Introduction</a>
 
-CentOS 8 running environment for our workflow.
+`CentOS 8` running environment for our workflow.
 All related bioinformatics tools are configured in directory **/usr/test**.
 Bioinformatic Tool Context:
 
@@ -44,7 +44,7 @@ Other Configure:
 
    Download Web: https://docs.docker.com/get-docker/
    
-   If you use a `Window OS`, please also download `WSL 2 backend`. ([Instruction Web](https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package))  
+   If you use a `Windows` system, please also download `WSL 2 backend`. ([Instruction Web](https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package))  
 
 2. Pull image from [docker hub](https://hub.docker.com/repository/docker/tp29/phage-map) or run `DockerFile` to build your own image:
    
