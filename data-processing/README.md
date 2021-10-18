@@ -69,6 +69,7 @@ Other Configure:
    ```
 
    If you got a **deamon error**, please make sure you have started `docker` service.
+   
    If you still got a **deamon error**, please close other process on your PC and retry the above command.
 
 3. Create a container with interaction interface.
