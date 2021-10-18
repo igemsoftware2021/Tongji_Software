@@ -47,7 +47,9 @@ Other Configure:
 2. Pull image from [docker hub](https://hub.docker.com/repository/docker/tp29/phage-map) or run `DockerFile` to build your own image.
    
    (1) Use `DockerFile` on GitHub:
+   
    **Please make sure you have clone whole repositories locally!!!**
+   
    If you haven't clone this repositories, please run following code:
    ```shell
    git clone https://github.com/tj-Acmen/Tongji_Software.git
