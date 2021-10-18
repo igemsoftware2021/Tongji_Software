@@ -45,18 +45,8 @@ Other Configure:
    Download Web: https://docs.docker.com/get-docker/
 
 2. Pull image from [docker hub](https://hub.docker.com/repository/docker/tp29/phage-map) or run `DockerFile` to build your own image.
-
-   Docker Hub:
-
-   ```dockerfile
-   docker pull docker.io/tp29/phage-map:latest
-   # or
-   docker pull tp29/phage-map
-   ```
-
-   If you got a **deamon error**, please close other process on your PC and retry the above command.
    
-   Use `DockerFile` on GitHub:
+   (1) Use `DockerFile` on GitHub:
    **Please make sure you have clone whole repositories locally!!!**
    If you haven't clone this repositories, please run following code:
    ```shell
@@ -68,6 +58,16 @@ Other Configure:
    ```shell
    docker build -f DockerFile -t tp29/phage-map:latest .
    ```
+   (2) Docker Hub:
+
+   ```dockerfile
+   docker pull docker.io/tp29/phage-map:latest
+   # or
+   docker pull tp29/phage-map
+   ```
+
+   If you got a **deamon error**, please make sure you have started `docker` service.
+   If you still got a **deamon error**, please close other process on your PC and retry the above command.
 
 3. Create a container with interaction interface.
 
