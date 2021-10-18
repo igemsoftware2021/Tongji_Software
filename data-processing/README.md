@@ -273,13 +273,20 @@ More INFO from [WIsH GitHub](https://github.com/soedinglab/wish).
 1. Generate scaled matrix:
 
    ```shell
-   cd /usr/test/workpath# Default using test filespython3 ../pyIOscript/generate_matrix.py# Parameters Helppython3 ../pyIOscript/generate_matrix.py -h 
+   cd /usr/test/workpath
+   # Default using test files
+   python3 ../pyIOscript/generate_matrix.py
+   # Parameters Help
+   python3 ../pyIOscript/generate_matrix.py -h 
    ```
 
 2. Topsis analysis for final score table:
 
    ```shell
-   # Default using test filespython3 ../pyIOscript/generate_finalScore.py # Parameters Helppython3 ../pyIOscript/generate_finalScore.py -h
+   # Default using test files
+   python3 ../pyIOscript/generate_finalScore.py 
+   # Parameters Help
+   python3 ../pyIOscript/generate_finalScore.py -h
    ```
 
    
@@ -287,7 +294,9 @@ More INFO from [WIsH GitHub](https://github.com/soedinglab/wish).
 ### <a name="re" style="color:black">Reset Container</a>
 
 ```shell
-rm -rf /usr/test/workpath/testOutrm -rf /usr/test/PHP/exampleOutputrm -rf /usr/test/WIsH/outputResultDir
+rm -rf /usr/test/workpath/testOut
+rm -rf /usr/test/PHP/exampleOutput
+rm -rf /usr/test/WIsH/outputResultDir
 ```
 
 
