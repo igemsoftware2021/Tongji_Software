@@ -208,7 +208,10 @@ More INFO from [CRISPRDetect Help Web](http://crispr.otago.ac.nz/CRISPRDetect/CR
 5. Running all above steps with **this** command: 
 
    ```shell
-   cd /usr/test/workpathmkdir testOutpython3 ../pyIOscript/generate_bitScore.py# Parameters Helppython3 ../pyIOscript/generate_bitScore.py -h
+   cd /usr/test/workpathmkdir testOut
+   python3 ../pyIOscript/generate_bitScore.py
+   # Parameters Help
+   python3 ../pyIOscript/generate_bitScore.py -h
    ```
 
    
@@ -320,19 +323,4 @@ rm -rf /usr/test/WIsH/outputResultDir
 ### <a name="contributors" style="color:black">Contributors</a>
 
 Sincerely thanks to **Yanping Zhao**, **Songyang Li**, **Letian Li** for their contribution of this `Phage-MAP` docker image construction.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
