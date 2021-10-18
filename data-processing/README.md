@@ -46,7 +46,7 @@ Other Configure:
    
    If you use a `Window OS`, please also download `WSL 2 backend`. ([Instruction Web](https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package))  
 
-2. Pull image from [docker hub](https://hub.docker.com/repository/docker/tp29/phage-map) or run `DockerFile` to build your own image.
+2. Pull image from [docker hub](https://hub.docker.com/repository/docker/tp29/phage-map) or run `DockerFile` to build your own image:
    
    (1) Use `DockerFile` on GitHub:
    
