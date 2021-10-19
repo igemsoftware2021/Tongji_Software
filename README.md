@@ -50,3 +50,9 @@ We've tested that using the following virtual machine configuration, we can run 
 
 ![](https://2021.igem.org/wiki/images/b/b5/T--Tongji_Software--step111.png)
 ![](https://2021.igem.org/wiki/images/2/23/T--Tongji_Software--daimafenxi-1.png)
+
+
+# Our Wiki
+
+If you are interested in our project, please click [here](https://2021.igem.org/Team:Tongji_Software) to check out our wiki.
+
