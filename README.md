@@ -54,5 +54,5 @@ We've tested that using the following virtual machine configuration, we can run 
 
 # Our Wiki
 
-If you are interested in our project, please click [here](https://2021.igem.org/Team:Tongji_Software) to check out our wiki.
+If you are interested in our project, please click [here](https://2021.igem.org/Team:Tongji_Software) to visit our wiki.
 
