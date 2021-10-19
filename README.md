@@ -1,7 +1,3 @@
-# Game technical route 
-
-  We used Adobe PhotoShop, Adobe illustrator, Adobe After Effects as tools to create vivid game materials, and used **Cocos Creator framework** and integrated development environment to develop game programs in TypeScript language. Cocos Creator has convenient visual interface, debugging tools and its release are visible in the browser in real time and it has many other good features. Games developed through Cocos Creator can be quickly deployed to a web platform accessible to all players. During the development process, we made the attack animation, movement and attack logic, deployment unit logic and clearance logic, and adjusted the numerical balance of the game.
-
 # Website technical route
 
   We mainly used the following open source tools and frameworks in the develotment of the website:
