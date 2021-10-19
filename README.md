@@ -31,3 +31,10 @@
 bacteria_taxon -> bacteria -> bacteria_spacer -> phage -> bacteria_phage_score -> result -> super_bug -> phage_bug -> score_bug -> comment
 ```
 
+## Reconstruct our pipeline
+You can use `Docker` image to construct your own pipeline. 
+
+Please go click [this](https://github.com/tj-Acmen/Tongji_Software/tree/main/data-processing) to get more details by reading `README.md` instruction.
+
+You can also get more information from our [Wiki Page](https://2021.igem.org/Team:Tongji_Software/Proof_Of_Concept).
+
