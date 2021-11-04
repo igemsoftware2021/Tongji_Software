@@ -34,22 +34,7 @@ bacteria_taxon -> bacteria -> bacteria_spacer -> phage -> bacteria_phage_score -
 # Reconstruct our Pipeline
 You can use `Docker` image to construct your own pipeline. 
 
-Please click [this](https://github.com/tj-Acmen/Tongji_Software/tree/main/data-processing) to get more details by reading `README.md` instruction.
-
-We've tested that using the following virtual machine configuration, we can run the entire analysis process smoothly.
-
-![](https://2021.igem.org/wiki/images/a/ab/T--Tongji_Software--xunijipeizhi.png)
-
-## Docker Installation and Start Service
-![](https://2021.igem.org/wiki/images/1/15/T--Tongji_Software--docker9.png)
-
-## Image Pulling and Container Construction
-![](https://2021.igem.org/wiki/images/f/f1/T--Tongji_Software--pull_docker.png)
-
-## Analysising Results Screenshots
-
-![](https://2021.igem.org/wiki/images/b/b5/T--Tongji_Software--step111.png)
-![](https://2021.igem.org/wiki/images/2/23/T--Tongji_Software--daimafenxi-1.png)
+Please click [**this**](https://github.com/tj-Acmen/Tongji_Software/tree/main/data-processing) to get more details by reading `README.md` instruction.
 
 
 # Our Wiki
